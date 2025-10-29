@@ -121,8 +121,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **Serkan Gürcan & Emirhan Karakuş**
 
-- GitHub: [@[Serkangrcndev]](https://github.com/Serkangrcndev)
-- LinkedIn: [https://www.linkedin.com/in/emrhankarakus/] 
+- GitHub: [Serkangrcndev](https://github.com/Serkangrcndev)
+- LinkedIn: [Emirhan Karakuş](https://www.linkedin.com/in/emrhankarakus/)
 - LinkedIn: [Serkan Gürcan](https://linkedin.com/in/serkan-gürcan-0ab912332)
 
 ## 🙏 Teşekkürler
@@ -142,5 +142,6 @@ Sorularınız veya önerileriniz için:
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
 **Not**: Bu uygulama ticari olmayan kullanım için ücretsizdir.
+
 
 
