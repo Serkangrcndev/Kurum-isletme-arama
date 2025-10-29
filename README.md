@@ -9,7 +9,7 @@ Türkiye'nin 81 ilinde hastane, restoran, otel, eczane gibi işletmeleri kolayca
 
 ## 📸 Ekran Görüntüleri
 
-![Uygulama Ana Ekran]()
+<img width="1235" height="750" alt="Ekran görüntüsü 2025-10-30 010626" src="https://github.com/user-attachments/assets/fa28b750-aa70-41eb-9c06-97b27167d639" />
 *Modern ve kullanıcı dostu arayüz*
 
 ## ✨ Özellikler
@@ -142,4 +142,5 @@ Sorularınız veya önerileriniz için:
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
 **Not**: Bu uygulama ticari olmayan kullanım için ücretsizdir.
+
 
